@@ -6,8 +6,11 @@ These are just my preferred adjustments for the Niri window manager.
 
 ## Adjustments
 
+### keyboard
+
 - repeat delay : 200ms
 - repeat rate : 35
+- activated FR and RU layouts
 
 ### Keybinds
 
